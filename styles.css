@@ -11,7 +11,7 @@ https://tailwindcss.com/docs/customizing-colors
 }
 
 
-/* below sets default styling for the whole page, removing any browser margin and padding default settings and changing the box-sizing setting to border-box */
+/* below sets default styling for the whole page, removing any browser margin and padding default settings and changing the box-sizing setting to border-box. transition-duration makes that nice hover effect */
 
 * {
     margin: 0;
